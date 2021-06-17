@@ -22,7 +22,6 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 
-print "Created By Solo"
 print
    ____            _             _   _                  _                         __  
  / ___|    ___   | |   ___     | | | |   __ _    ___  | | __   ___   _ __     _  \ \ 
